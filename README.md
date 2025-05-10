@@ -12,7 +12,7 @@
 Hey there! I'm Sergio, an **engineer** who loves turning ideas into reality. Truly believe that:
 > "The best way to predict the future is to create it." 
 
-We really enjoy building stuff and exploring ideas, so here you can find more about me: [eseaeme](https://eseaemefund.xyz) 
+I really enjoy building stuff and exploring ideas, so here you can find more about me: [eseaeme](https://eseaemefund.xyz) 
 
 
 ## 📬 Let's Connect!
