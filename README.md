@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img src="me.png" alt="Sergio Ayala" width="100" style="border-radius: 1rem; border: 3px solidrgb(72, 72, 84);" />
+  <img src="favicon.svg" alt="Sergio Ayala" width="100" style="border-radius: 1rem; border: 3px solidrgb(72, 72, 84);" />
 </div>
 
 <div align="center">
