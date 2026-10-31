@@ -15,7 +15,7 @@ Co-Founder at **[Traza](https://traza.ai)**, the agentic collaborative workspace
 
 ## 📬 Let's connect
 
-📧 [sergioayala.contacto@gmail.com](mailto:sergioayala.contacto@gmail.com) · 🌐 [traza.ai](https://traza.ai) · [eseaemefund.xyz](https://eseaemefund.xyz)
+📧 [sergio@traza.ai](mailto:sergio@traza.ai) · 🌐 [traza.ai](https://traza.ai) · [eseaemefund.xyz](https://eseaemefund.xyz)
 
 ---
 
