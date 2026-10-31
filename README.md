@@ -10,7 +10,7 @@ Co-founder at **[Traza](https://traza.ai)**: we build AI agents that run procure
 - 🎓 Exponential Fellow
 - 🌱 Side projects and ideas at [eseaeme](https://eseaemefund.xyz)
 
-> "Everything you can imagine is real." — my motto
+> "Everything you can imagine is real."
 
 ## 📬 Let's connect
 
