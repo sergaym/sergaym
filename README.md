@@ -4,9 +4,9 @@
 
 ## Hey, I'm Sergio
 
-Co-founder at **[Traza](https://traza.ai)**, the agentic collaborative workspace for procurement teams.
+Co-Founder at **[Traza](https://traza.ai)**, the agentic collaborative workspace for procurement teams.
 
-- 🚀 Co-founder & engineer at [Traza](https://traza.ai) ([@TryTraza](https://github.com/TryTraza))
+- 🚀 Co-Founder at [Traza](https://traza.ai) ([@TryTraza](https://github.com/TryTraza))
 - 🎓 [Exponential Fellow](https://www.goexponential.org/directory/fellows/sergio-ayala)
 - 🛠️ Previously at [Stack AI](https://www.stack-ai.com) (acq. by Asana)
 - 🌱 Side projects and ideas at [eseaeme](https://eseaemefund.xyz)
