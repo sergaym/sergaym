@@ -4,7 +4,7 @@
 
 ## Hey, I'm Sergio
 
-Co-founder at **[Traza](https://traza.ai)**: we build AI agents that run procurement for enterprise teams, from supplier homologation and RFQs to invoice matching.
+Co-founder at **[Traza](https://traza.ai)**, the agentic collaborative workspace for procurement teams.
 
 - 🚀 Co-founder & engineer at [Traza](https://traza.ai) ([@TryTraza](https://github.com/TryTraza))
 - 🎓 [Exponential Fellow](https://www.goexponential.org/directory/fellows/sergio-ayala)
