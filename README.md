@@ -1,28 +1,20 @@
-
 <div align="left">
-  <img src="favicon.svg" alt="Sergio Ayala" width="100" style="border-radius: 1rem; border: 3px solidrgb(72, 72, 84);" />
+  <img src="favicon.svg" alt="Sergio Ayala" width="100" style="border-radius: 1rem; border: 3px solid rgb(72, 72, 84);" />
 </div>
 
-<div align="center">
+## Hey, I'm Sergio
 
-</div>
+Co-founder at **[Traza](https://traza.ai)**: we build AI agents that run procurement for enterprise teams, from supplier homologation and RFQs to invoice matching.
 
-## 👨‍💻 About Me 
+- 🚀 Co-founder & engineer at [Traza](https://traza.ai) ([@TryTraza](https://github.com/TryTraza))
+- 🎓 Exponential Fellow
+- 🌱 Side projects and ideas at [eseaeme](https://eseaemefund.xyz)
 
-Hey there! I'm Sergio, an **engineer** who loves turning ideas into reality. Truly believe that:
-> "The best way to predict the future is to create it." 
+> "Everything you can imagine is real." — my motto
 
-I really enjoy building stuff and exploring ideas, so here you can find more about me: [eseaeme](https://eseaemefund.xyz) 
+## 📬 Let's connect
 
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-📧 [sergioayala.contacto@gmail.com](mailto:sergioayala.contacto@gmail.com)  
-🌐 [eseaemefund.xyz](https://eseaemefund.xyz)
-
-</div>
+📧 [sergioayala.contacto@gmail.com](mailto:sergioayala.contacto@gmail.com) · 🌐 [traza.ai](https://traza.ai) · [eseaemefund.xyz](https://eseaemefund.xyz)
 
 ---
 
@@ -30,4 +22,4 @@ I really enjoy building stuff and exploring ideas, so here you can find more abo
 
 ### *Never Settle!* ✨
 
-</div> 
+</div>
